@@ -8,13 +8,3 @@ C:\Users\Arosh\Desktop\C#\Assignment\ApiApp\DAL\obj\Debug\DAL.csproj.CoreCompile
 C:\Users\Arosh\Desktop\C#\Assignment\ApiApp\DAL\obj\Debug\DAL.csproj.CopyComplete
 C:\Users\Arosh\Desktop\C#\Assignment\ApiApp\DAL\obj\Debug\DAL.dll
 C:\Users\Arosh\Desktop\C#\Assignment\ApiApp\DAL\obj\Debug\DAL.pdb
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\bin\Debug\DAL.dll.config
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\bin\Debug\DAL.dll
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\bin\Debug\DAL.pdb
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\bin\Debug\EntityFramework.dll
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\bin\Debug\EntityFramework.xml
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\obj\Debug\DAL.csproj.CopyComplete
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\obj\Debug\DAL.dll
-F:\10th Semester\Final\Advanced Dot Net\Fall21_.Net_A_PMT\ApiApp\DAL\obj\Debug\DAL.pdb
